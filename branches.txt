@@ -1,2 +1,2 @@
-Isolating work in branches, changing context and integrating changes may lead to better understanding of code.
-Branching helps to work on different features at different instances without being ambiguos or complex.
+Isolating work in branches, changing context and integrating changes may lead to a better understanding of code.
+Branching helps to work on different features in different instances without being ambiguous or complex.
